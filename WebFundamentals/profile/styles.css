@@ -1,0 +1,196 @@
+html body{
+    background-color: #6F5964;
+    width: 1000px;
+}
+
+#jayne{
+    height: 375px;
+    width: 570px;
+    border: 5px;
+    border-color: #C0C0C0;
+    border-style: solid;
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+#jayneDoe{
+    display: inline-block;
+    background-color: #F5F5F5;
+    height: 100px;
+    width: 1300px;
+    font-size: 20pt;
+}
+
+#jd{
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+}
+
+#shadowsInternet{
+    text-align: right;
+    position: relative;
+    bottom: 90px;
+    right: 40px;
+}
+
+#about{
+    display: block;
+    height: 385px;
+    width: 600px;
+    background-color: #EEE8EE;
+    position: absolute;
+    top: 120px;
+    left: 650px;
+}
+
+#aboutheader{
+    display:block;
+    height: 70px;
+    width: 600px;
+    background-color: #A2A1A8;
+    color: white;
+    font-size: 25pt;
+    position: relative;
+    bottom: 10px;
+}
+
+.headerText{
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+#aboutheader p{
+    margin: 10px;
+}
+
+#abouttext{
+    font-size: 15pt;
+    margin: 10px;
+}
+
+.projects{
+    display: inline-block;
+    height: 840px;
+    width: 375px;
+    background-color: #EEE8EE;
+}
+
+.projectHeader{
+    display:block;
+    height: 70px;
+    width: 375px;
+    background-color: #A2A1A8;
+    color: white;
+    font-size: 25pt;
+    position: relative;
+    bottom: 35px;
+}
+
+.technologies{
+    position: absolute;
+    top: 530px;
+}
+
+.technologies p{
+    position: relative;
+    top: -15px;
+}
+
+#laMode{
+    position: absolute;
+    left: 50px;
+    top: 550px;
+}
+
+#familyContacts{
+    position: absolute;
+    left: 465px;
+    top: 550px;
+}
+
+#fiveEleven{
+    position: absolute;
+    left: 880px;
+    top: 550px;
+}
+
+.png{
+    height: 206px;
+    width: 375px;
+    position: relative;
+    bottom: 35px;
+}
+
+.projectText{
+    font-size: 15pt;
+    margin: 10px;
+    position: absolute;
+    top: 260px;
+}
+
+.icons{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+.images{
+    position: relative;
+    top: 300px;
+    left: 5px;
+}
+
+.buttons{
+    position: absolute;
+    top: 765px;
+    left: 140px; 
+    background-color: #407D61;
+    color: white;
+    border: 2px solid black;
+    font-size: 15pt;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#familyButton{
+    position: absolute;
+    left: 110px;
+}
+
+#contacts{
+    display: inline-block;
+    background-color: #F5F5F5;
+    height: 100px;
+    width: 1300px;
+    position: relative;
+    top: 1320px;
+}
+
+.images2{
+    height: 25px;
+    width: 25px;
+    position: relative;
+    bottom: 20px;
+}
+
+#contacts p{
+    font-size: 20pt;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
+
+#contacts2 p{
+    display: inline;
+    text-decoration: underline;
+    position: relative;
+    bottom: 25px;
+}
+
+#contacts2{
+    text-align: center;
+}
